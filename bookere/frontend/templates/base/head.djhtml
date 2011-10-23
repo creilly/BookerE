@@ -6,7 +6,7 @@
 			<link href="{% get_static_prefix %}/css/style.css" media="screen" rel="stylesheet" type="text/css" />		
 		
 		
-	<title>OhLife helps you remember what's happened in your life</title>
+	<title>BookerE: Chumps need not apply</title>
 
 	
 	<meta property="og:title" content="You're invited to join OhLife! It helps you remember what's happened in your life."/>
