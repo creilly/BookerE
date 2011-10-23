@@ -20,10 +20,10 @@
                 {{book.friend_loan }}
             </td>
             <td>
-                {{book.date_loan }}
+                {{book.title }}
             </td>
             <td>
-                {{book.title }}
+                {{book.date_loan }}
             </td>
         </tr>
         {% endfor %}
